@@ -1,3 +1,3 @@
-# ICASSP2023_759: code and checkpoint
+# Code and checkpoint of ICASSP2023_759: LADA: LATENT DIALOGUE ACTION FOR ZERO-SHOT CROSS-LINGUAL SPOKEN LANGUAGE MODELING
 
-https://drive.google.com/file/d/1eqiBEUmWatddMWHuMit9WLJJq5ddURUT/view?usp=share_link
+Will be made available after publication
